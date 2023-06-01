@@ -5,11 +5,17 @@ I'm experienced in Rust 🦀, Node.js, Typescript, React, Next.js, SvelteKit. Co
 
 Visit my website! [computing.kylerchin.com](https://computing.kylerchin.com)
 
-Repos I've contributed torwards:
+#### Contributions
 
 Javascript Libs:
 
-[discordjs/discord.js](https://github.com/discordjs/discord.js)
+- [discordjs/discord.js](https://github.com/discordjs/discord.js)
+  - https://github.com/discordjs/discord.js/pull/6576/
+
+Rust Libs:
+
+- [rust-transit/gtfs-structure](https://github.com/rust-transit/gtfs-structure)
+
 <!--
 **kylerchin/kylerchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
