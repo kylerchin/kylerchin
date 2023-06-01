@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Kyler!
+I research public transit routing & computing, computational environmental science, open-source systems, and computing for equity/public good.
 
+I'm experienced in Rust 🦀, Node.js, Typescript, React, Next.js, SvelteKit. Contributes to a broad range of repositories.
+
+Repos I've contributed torwards:
+
+Javascript Libs:
+
+[https://github.com/discordjs/discord.js](discordjs/discord.js)
 <!--
 **kylerchin/kylerchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
