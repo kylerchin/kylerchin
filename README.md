@@ -5,6 +5,8 @@ I'm experienced in Rust 🦀, Node.js, Typescript, React, Next.js, SvelteKit. Co
 
 Visit my website! [computing.kylerchin.com](https://computing.kylerchin.com)
 
+#### Kyler Chin Computer Science Laboratory
+
 #### Contributions
 
 Javascript Libs:
