@@ -7,6 +7,10 @@ Visit my website! [computing.kylerchin.com](https://computing.kylerchin.com)
 
 #### Kyler Chin Computer Science Laboratory
 
+#### Older projects I made to learn software engineering
+
+- [kylerchin/adorabot](https://github.com/kylerchin/adorabot)
+
 #### Contributions
 
 Javascript Libs:
