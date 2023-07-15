@@ -29,6 +29,8 @@ Rust Libs:
 
 - [rust-transit/gtfs-structure](https://github.com/rust-transit/gtfs-structure)
 
+Data:
+- [transitland-atlas](https://github.com/transitland/transitland-atlas/)
 <!--
 **kylerchin/kylerchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
