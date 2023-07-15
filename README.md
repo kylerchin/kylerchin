@@ -8,12 +8,15 @@ Visit my website! [computing.kylerchin.com](https://computing.kylerchin.com)
 ### Kyler Chin Computer Science Laboratory
 **Transit software**
 
- - [kylerchin/kactus-gtfs-rt](https://github.com/kylerchin/kactus-gtfs-rt)
-Kactus is a caching system for GTFS-rt data. It solves the problem of asking for API keys from many agencies. There's several runtimes embedded, starting with ingest.
+ - [kylerchin/kactus-gtfs-rt](https://github.com/kylerchin/kactus-gtfs-rt) **Mostly finished!!**
+Kactus is a caching system for GTFS-rt data. It solves the problem of asking for API keys from many agencies. There's several runtimes embedded, starting with ingest. Written in Rust and uses RedisDB.
+ - [kylerchin/catenary-backend](https://github.com/kylerchin/catenary-backend/) **In continuous development early stage**
+Backend system for routing algorithm, schedule ingesting, map, and data parsing. Written in Rust & Postgres.
+ - [kylerchin/catenary-frontend](https://github.com/kylerchin/catenary-frontend/) **In continuous development, early stage** Frontend system for using maps, seeing realtime info, journey planner.
 
 #### Older projects I made to learn software engineering
 
-- [kylerchin/adorabot](https://github.com/kylerchin/adorabot)
+- [kylerchin/adorabot](https://github.com/kylerchin/adorabot) 
 
 #### Contributions
 
