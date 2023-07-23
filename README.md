@@ -9,10 +9,11 @@ Visit my website! [computing.kylerchin.com](https://computing.kylerchin.com)
 **Transit software**
 
  - [kylerchin/kactus-gtfs-rt](https://github.com/kylerchin/kactus-gtfs-rt) **Alpha features finished!!**
-Kactus is a caching system for GTFS-rt data. It solves the problem of asking for API keys from many agencies. There's several runtimes embedded, starting with ingest. Written in Rust and uses RedisDB.
+Kactus is a caching system for GTFS-rt data. It solves the problem of asking for API keys from many agencies. There's several runtimes embedded, starting with ingest. Written in Rust 🦀 and uses RedisDB.
  - [kylerchin/catenary-backend](https://github.com/kylerchin/catenary-backend/) **In continuous development early stage**
-Backend system for routing algorithm, schedule ingesting, map, and data parsing. Written in Rust & Postgres.
- - [kylerchin/catenary-frontend](https://github.com/kylerchin/catenary-frontend/) **In continuous development, early stage** Frontend system for using maps, seeing realtime info, journey planner.
+Backend system for routing algorithm, schedule ingesting, map, and data parsing. Written in Rust 🦀 & Postgres. 
+ - [kylerchin/catenary-frontend](https://github.com/kylerchin/catenary-frontend/) **In continuous development, early stage** Frontend system for using maps, seeing realtime info, journey planner. 
+ - [kylerchin/lacmta-alerts-to-protobuf](https://github.com/kylerchin/lacmta-alerts-to-protobuf) **DONE!** LA Metro Service Alerts Fetch & Convert into Protobuf or Rust Structs, written in Rust 🦀
 
 #### Older projects I made to learn software engineering
 
