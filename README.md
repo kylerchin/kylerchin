@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Kyler (he/him)!
 I research public transit routing & computing, computational environmental science, open-source systems, and computing for equity/public good.
 
-I'm experienced in Rust 🦀, Node.js, Typescript, React, Next.js, SvelteKit. Contributes to a broad range of repositories.
+I'm experienced in Rust 🦀, Node.js, Typescript, React, Next.js, SvelteKit. I contribute to a broad range of repositories.
 
 Visit my website! [computing.kylerchin.com](https://computing.kylerchin.com)
 
