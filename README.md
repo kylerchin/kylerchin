@@ -7,6 +7,7 @@ Visit my website! [computing.kylerchin.com](https://computing.kylerchin.com)
 
 ### Kyler Chin Computer Science Laboratory
 **Transit software**
+ - Guide to the whole project / development style guidelines: https://github.com/kylerchin/kylers-transit-app/blob/main/README.md
 
  - [kylerchin/kactus-gtfs-rt](https://github.com/kylerchin/kactus-gtfs-rt) **Alpha features finished!!**
 Kactus is a caching system for GTFS-rt data. It solves the problem of asking for API keys from many agencies. There's several runtimes embedded, starting with ingest. Written in Rust 🦀 and uses RedisDB.
