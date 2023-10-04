@@ -16,6 +16,7 @@ Kactus is a caching system for GTFS-rt data. It solves the problem of asking for
 Backend system for routing algorithm, schedule ingesting, map, and data parsing. Written in Rust 🦀 & Postgres. 
  - [kylerchin/catenary-frontend](https://github.com/kylerchin/catenary-frontend/) **In continuous development, early stage** Frontend system for using maps, seeing realtime info, journey planner.
  - [catenarymaps/catenary-flutter](https://github.com/catenarymaps/catenary-flutter) **In early development** Flutter frontend for Catenary
+ - [catenarymaps/zotgtfs](https://github.com/catenarymaps/zotgtfs) **Finished!!** Schedule and Realtime server conversion, reverse engineered Anteater Express
  - [kylerchin/lacmta-alerts-to-protobuf](https://github.com/kylerchin/lacmta-alerts-to-protobuf) **DONE!**  LA Metro Service Alerts Fetch & Convert into Protobuf or Rust Structs, written in Rust 🦀
    Project was deprecated 63 hours later, LA Metro responded by publishing `https://s3.amazonaws.com/la-alerts-prod/alerts.pb` 🎉🎉🎉🎉🎉
 
