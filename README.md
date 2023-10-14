@@ -3,6 +3,8 @@ I research public transit routing & computing, computational environmental scien
 
 I'm experienced in Rust 🦀, Node.js, Typescript, React, Next.js, SvelteKit. I contribute to a broad range of repositories.
 
+![Kyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylerchin&show_icons=true&theme=radical)
+
 Visit my website! [kylerchin.com](https://kylerchin.com)
 
 #### Kyler Chin Computer Science Laboratory moved to Catenary Transit Initiatives!
