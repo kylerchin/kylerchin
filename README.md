@@ -7,7 +7,10 @@ I'm experienced in Rust 🦀, Node.js, Typescript, React, Next.js, SvelteKit. I 
 
 Visit my website! [kylerchin.com](https://kylerchin.com)
 
-#### Kyler Chin Computer Science Laboratory moved to Catenary Transit Initiatives!
+#### Kyler Chin Computer Science Laboratory 
+- Blocking Generative AIs from accessing your Rust endpoints: https://github.com/kylerchin/block-ai-actix
+
+#### Catenary Transit Initiatives
 Website: https://catenarymaps.org
 **Transit software**
  - Guide to the whole project / development style guidelines: https://github.com/catenarymaps/documentation
