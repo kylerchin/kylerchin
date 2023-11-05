@@ -15,11 +15,11 @@ Website: https://catenarymaps.org
 **Transit software**
  - Guide to the whole project / development style guidelines: https://github.com/catenarymaps/documentation
  - Project roadmap https://github.com/orgs/CatenaryMaps/projects/1
- - [kylerchin/kactus-gtfs-rt](https://github.com/catenarymaps/kactus-gtfs-rt) **Alpha features finished!!**
+ - [kylerchin/kactus-gtfs-rt](https://github.com/catenarymaps/kactus-gtfs-rt) **In Production**
 Kactus is a caching system for GTFS-rt data. It solves the problem of asking for API keys from many agencies. There's several runtimes embedded, starting with ingest. Written in Rust 🦀 and uses RedisDB.
  - [catenarymaps/catenary-backend](https://github.com/catenarymaps/catenary-backend/) **In production**
 Backend system for routing algorithm, schedule ingesting, map, and data parsing. Written in Rust 🦀 & Postgres. 
- - [catenarymaps/catenary-frontend](https://github.com/catenarymaps/catenary-frontend/) **Experimental, depreciating in favour of flutter** Frontend system for using maps, seeing realtime info, journey planner.
+ - [catenarymaps/catenary-frontend](https://github.com/catenarymaps/catenary-frontend/) **In beta** Frontend system for using maps, seeing realtime info, journey planner.
  - [catenarymaps/catenary-flutter](https://github.com/catenarymaps/catenary-flutter) **In early development** Flutter frontend for Catenary
  - [catenarymaps/zotgtfs](https://github.com/catenarymaps/zotgtfs) **Finished!!** Schedule and Realtime server conversion, reverse engineered Anteater Express
  - [kylerchin/lacmta-alerts-to-protobuf](https://github.com/kylerchin/lacmta-alerts-to-protobuf) **DONE!**  LA Metro Service Alerts Fetch & Convert into Protobuf or Rust Structs, written in Rust 🦀
