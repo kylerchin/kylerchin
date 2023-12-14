@@ -6,8 +6,6 @@ Formerly addicted to Node.js, Typescript, React, Next.js, SvelteKit.
 
 ![Kyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylerchin&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylerchin"/>
-
 Visit my website! [kylerchin.com](https://kylerchin.com)
 
 #### Kyler Chin Computer Science Laboratory 
