@@ -7,6 +7,7 @@ Formerly addicted to Node.js, Typescript, React, Next.js, SvelteKit.
 ![Kyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylerchin&show_icons=true&theme=radical)
 
 Visit my website! [kylerchin.com](https://kylerchin.com)
+My YouTube channel: [Kyler Chin](https://youtube.com/KylerChin)
 
 #### Kyler Chin Computer Science Laboratory 
 - Blocking Generative AIs from accessing your Rust endpoints: https://github.com/kylerchin/block-ai-actix
@@ -26,9 +27,10 @@ Backend system for routing algorithm, schedule ingesting, map, and data parsing.
  - [kylerchin/lacmta-alerts-to-protobuf](https://github.com/kylerchin/lacmta-alerts-to-protobuf) **DONE!**  LA Metro Service Alerts Fetch & Convert into Protobuf or Rust Structs, written in Rust 🦀
    Project was deprecated 63 hours later, LA Metro responded by publishing `https://s3.amazonaws.com/la-alerts-prod/alerts.pb` 🎉🎉🎉🎉🎉
 
-#### Older projects I made to learn software engineering
+#### fun projects I made to learn software engineering 
 
-- [kylerchin/adorabot](https://github.com/kylerchin/adorabot) 
+- [kylerchin/adorabot](https://github.com/kylerchin/adorabot) [End of Life on Jan 1 2024]
+- [kylerchin/adora-rs](https://github.com/kylerchin/adora-rs) 
 
 #### Contributions
 
