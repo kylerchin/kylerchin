@@ -58,3 +58,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My YouTube channel! (fun k-pop videos)
+[youtube.com/KylerChin](https://www.youtube.com/KylerChin)
