@@ -14,6 +14,7 @@ My YouTube channel: [Kyler Chin](https://youtube.com/KylerChin)
 
 #### Catenary Transit Initiatives
 Website: https://catenarymaps.org
+GitHub: https://github.com/catenarytransit
 **Transit software**
  - [kylerchin/kactus-gtfs-rt](https://github.com/catenarytransit/kactus-gtfs-rt) **In Production**
 Kactus is a caching system for GTFS-rt data. It solves the problem of asking for API keys from many agencies. There's several runtimes embedded, starting with ingest. Written in Rust 🦀 and uses RedisDB.
