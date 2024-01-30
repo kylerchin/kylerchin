@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Kyler (he/him)!
-I research public transit routing & computing, computational environmental science, open-source systems, and computing for equity/public good.
+I research public transit routing & computing, computational environmental science, open-source systems, and computing for social equity.
 
 I'm experienced in Rust 🦀, Kubernetes, Distributed Systems, Distributed Algorithms, Routing Routing, Containerisation, Linux, and GIS. I contribute to a broad range of repositories. 
 Formerly addicted to Node.js, Typescript, React, Next.js, SvelteKit.
