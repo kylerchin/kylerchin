@@ -16,7 +16,6 @@ My YouTube channel: [Kyler Chin](https://youtube.com/KylerChin)
 Website: https://catenarymaps.org
 GitHub: https://github.com/catenarytransit
 **Transit software**
-Kactus is a caching system for GTFS-rt data. It solves the problem of asking for API keys from many agencies. There's several runtimes embedded, starting with ingest. Written in Rust 🦀 and uses RedisDB.
  - [catenarytransit/catenary-backend](https://github.com/catenarytransit/catenary-backend/) **In production, Stage 3 recently completed 2024 May**
 Backend system for routing algorithm, schedule ingesting, map, and data parsing. Written in Rust 🦀 & Postgres. 
  - [catenarytransit/catenary-frontend](https://github.com/catenarytransit/catenary-frontend/) **In production** Frontend system for using maps, seeing realtime info, journey planner.
@@ -24,7 +23,8 @@ Backend system for routing algorithm, schedule ingesting, map, and data parsing.
  - [catenarytransit/amtrak-gtfs-rt](https://github.com/catenarytransit/amtrak-gtfs-rt) **Finished!!** Conversion from track a train to gtfs-rt vehicles and trips fields.
  - [kylerchin/lacmta-alerts-to-protobuf](https://github.com/catenarytransit/lacmta-alerts-to-protobuf) **DONE! End of Life**  LA Metro Service Alerts Fetch & Convert into Protobuf or Rust Structs, written in Rust 🦀
    Project was deprecated 63 hours later, LA Metro responded by publishing `https://s3.amazonaws.com/la-alerts-prod/alerts.pb` 🎉🎉🎉🎉🎉'
- - [catenarytransit/kactus-gtfs-rt](https://github.com/catenarytransit/kactus-gtfs-rt) **End of Life**
+ - [catenarytransit/kactus-gtfs-rt](https://github.com/catenarytransit/kactus-gtfs-rt) **End of Life** 
+Kactus is a caching system for GTFS-rt data. It solves the problem of asking for API keys from many agencies. There's several runtimes embedded, starting with ingest. Written in Rust 🦀 and uses RedisDB.
 
 #### fun projects I made to learn software engineering 
 
