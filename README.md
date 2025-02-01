@@ -37,6 +37,7 @@ Rust Libs:
 
 - [rust-transit/gtfs-structure](https://github.com/rust-transit/gtfs-structure)
 - [barzamin/gtfs-rt](https://github.com/barzamin/gtfs-rt)
+- [Maximkaaa/galileo](https://github.com/Maximkaaa/galileo)
 
 Javascript Libs:
 
