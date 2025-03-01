@@ -16,11 +16,13 @@ My YouTube channel: [Kyler Chin](https://youtube.com/KylerChin)
 Website: https://catenarymaps.org
 GitHub: https://github.com/catenarytransit
 **Transit software**
- - [catenarytransit/catenary-backend](https://github.com/catenarytransit/catenary-backend/) **In production, Stage 3 recently completed 2024 May**
-Backend system for routing algorithm, schedule ingesting, map, and data parsing. Written in Rust 🦀 & Postgres. 
+ - [catenarytransit/catenary-backend](https://github.com/catenarytransit/catenary-backend/) **In continuous production**
+Backend system for routing algorithm, schedule ingesting, map, and data parsing. Written in Rust 🦀 & Postgres.
+
  - [catenarytransit/catenary-frontend](https://github.com/catenarytransit/catenary-frontend/) **In production** Frontend system for using maps, seeing realtime info, journey planner.
  - [catenarytransit/zotgtfs](https://github.com/catenarytransit/zotgtfs) **Finished!!** Schedule and Realtime server conversion, reverse engineered Anteater Express
  - [catenarytransit/amtrak-gtfs-rt](https://github.com/catenarytransit/amtrak-gtfs-rt) **Finished!!** Conversion from track a train to gtfs-rt vehicles and trips fields.
+ - [catenarytransit/via-rail-gtfs-rt](https://github.com/catenarytransit/via-rail-gtfsrt) **Finished!!** Conversion from Via Rail tracker to gtfs-rt vehicles and trips fields.
  - [kylerchin/lacmta-alerts-to-protobuf](https://github.com/catenarytransit/lacmta-alerts-to-protobuf) **DONE! End of Life**  LA Metro Service Alerts Fetch & Convert into Protobuf or Rust Structs, written in Rust 🦀
    Project was deprecated 63 hours later, LA Metro responded by publishing `https://s3.amazonaws.com/la-alerts-prod/alerts.pb` 🎉🎉🎉🎉🎉'
  - [catenarytransit/kactus-gtfs-rt](https://github.com/catenarytransit/kactus-gtfs-rt) **End of Life** 
